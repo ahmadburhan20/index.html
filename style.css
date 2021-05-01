@@ -1,0 +1,146 @@
+.sarawa {
+   background-color: #EAF6F6; 
+   width: 102.6%;
+   height: 605px;
+   margin: -1% 0% 0% -2%;
+}
+
+.cloud1 {
+    position: relative;
+    left: 70%;
+    top: 30px;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive; 
+    margin-left: 40%;
+    padding: 50px;
+    font-size:50px;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'montserrat', sans-serif;
+    margin-left: 46%;
+    
+}
+
+.cloud2 {
+    display: block;
+    position: relative;
+    left: 25%;
+    top: 5px;
+}
+
+.mountain {
+    width: 400px;
+    margin-left: 35%;
+    position: relative;
+    bottom: 23px;
+}
+
+.ahmad {
+    padding: 50px ;
+    width: 200px;
+    height: 200px;
+    margin-left: 38%;
+    border-radius: 75%;
+}
+
+.paragraph {
+    color: #40514E;
+    font-family: 'marriwether', serif;
+    margin-left: 36%;
+}
+span{
+    margin-left: 147px;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 4%;
+}
+
+.code {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-left: 25%;
+    border-radius: 50%;
+}
+
+h3 {
+    color: #11999E;
+    margin-left: 40%;
+}
+
+p {
+    margin-left: 40%;
+}
+
+.chillies {
+    width: 120px;
+    height: 120px;
+    float: right;
+    margin-right: 30%;
+    padding-top: 30px;
+}
+
+.header {
+    color: #11999E;
+    margin-left: 25%;
+    padding-top: 30px;
+}
+
+.paragraph1 {
+    margin-left: 25%;
+}
+
+.header2 {
+    margin-left: 41%;
+}
+
+.paragraph2 {
+    text-align: center;
+    margin-left: 5%;
+    padding-bottom: 30px;
+}
+
+.contactme {
+    text-decoration: none;
+    background-color:#11999E;
+    color: white;
+    margin-left: 47%;
+    padding:5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.contactme:hover{
+    color:lightblue;
+}
+
+.footer {
+    background-color: #11999E;
+    width: 97%;
+    height: 100px;
+    margin: 0% 0% -2% -0.9%;
+    padding: 30px;
+    text-align: center;
+}
+
+a{
+    padding: 30px;
+    color: #004346;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: white;
+}
+
+.paragraph3 {
+    margin-left: 2%;
+    color: #EAF6F6;
+}
